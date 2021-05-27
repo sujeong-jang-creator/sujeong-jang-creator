@@ -5,12 +5,14 @@
 <p align='center'>
 <a href="https://blog.naver.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp; 
 <a href="https://open.kakao.com/o/sDrZcl2c" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Naver&logoColor=white"/></a>  &nbsp; 
-<a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a> &nbsp;
+<a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>&nbsp; </a>
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp;</p><br>
 
 <h3 align='center'>:blue_heart:Tech Stack:blue_heart:</p>
-<p align='center'>
-I'm studying <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> since 2021/05</p><br>
+<p align='center'>I'm studying <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> since 2021/05</p>
+<p align='center'>I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=/AdobeIllustrator&logoColor=white"/></a> and <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=/AdobePhotoshop&logoColor=white"/></a> : I like to use Illustration to create:smile:</p><br>
+
+<hr>
 
 <h3 align='center'> :love_letter:  If you wanna send e-mail to me, <img src="https://img.shields.io/badge/gomdorij@naver.com-F50057?style=flat-square&logo=?&logoColor=white"/></a>  :love_letter:</p><br><br>
 
