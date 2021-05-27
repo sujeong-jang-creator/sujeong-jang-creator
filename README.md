@@ -9,8 +9,8 @@
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp;</p><br>
 
 <h3 align='center'>:blue_heart:Tech Stack:blue_heart:</p>
-<p align='center'>I'm studying <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> since 2021/05</p>
-<p align='center'>I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=/AdobeIllustrator&logoColor=white"/></a> and <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=/AdobePhotoshop&logoColor=white"/></a> : I like to use Illustration to create:smile:</p><br>
+I'm studying <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> since 2021/05</p>
+I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=/AdobeIllustrator&logoColor=white"/></a> and <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=/AdobePhotoshop&logoColor=white"/></a> : I like to use Illustration to create:smile:</p><br>
 
 <hr>
 
