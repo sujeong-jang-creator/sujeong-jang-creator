@@ -3,7 +3,7 @@
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>
-<a href="https://blog.naver.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp; 
+<a href="https://blog.naver.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp; 
 <a href="https://open.kakao.com/o/sDrZcl2c" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>  &nbsp; 
 <a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>&nbsp; </a>
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp;</p>
