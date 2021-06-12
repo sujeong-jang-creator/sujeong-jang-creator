@@ -12,15 +12,6 @@
 
 [ABC-XXX](https://client.jira.com/browse/ABC-XXX)
 
-*I have:*
- - [ ] Ensure that all code conforms to our coding standards (Run `yarn-lint` to check JS. Run `yarn-lint-php` to check PHP)
- - [ ] Written new unit tests (or updated existing ones) for changes if necessary
- - [ ] Verified that all unit tests are passing
- - [ ] Written doc blocks and inline documentation on all new changes
- - [ ] Added the Jira card reference as a prefix to the title of the PR
-
-<h3 align='center'> :love_letter:  If you wanna send e-mail to me, <img src="https://img.shields.io/badge/gomdorij@naver.com-F50057?style=flat-square&logo=?&logoColor=white"/></a>  :love_letter:</p>
-
 <br>
 <br>
 
