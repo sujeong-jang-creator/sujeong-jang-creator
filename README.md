@@ -8,10 +8,6 @@
 <a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>&nbsp; </a>
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp;</p>
 
-{{Description of feature/bugfix here}}
-
-[ABC-XXX](https://client.jira.com/browse/ABC-XXX)
-
 <br>
 <br>
 
