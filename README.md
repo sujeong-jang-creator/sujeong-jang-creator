@@ -1,4 +1,4 @@
-![header](./images/aimain.jpg)
+![header](./images/newmain.jpg)
 <h2 align='center'> "Seeing much, suffering much, and studying much, are the three pillars of learning" </p>
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
