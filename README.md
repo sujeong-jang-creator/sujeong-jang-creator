@@ -15,8 +15,15 @@
 <details>
   <summary>:blue_heart:Tech Stack:blue_heart:</summary>
   <p><p align='center'>
- I'm studying <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a><img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Oracle&logoColor=white"/></a> now!</p>
+ I'm studying <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
+now!</p>
 
 I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=/AdobeIllustrator&logoColor=white"/></a> and <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=/AdobePhotoshop&logoColor=white"/></a> : I like to use Illustration to create:smile:</p></details>
 
