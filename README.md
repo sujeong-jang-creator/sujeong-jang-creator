@@ -9,14 +9,7 @@
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp;</p>
 
 <br>
-
-<h3 align='center'>:blue_heart: Projects / Self-study :blue_heart:</p>
-If you wonder how I study alone? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"/></a>&nbsp;</p>
-If you wonder what kind of project I've been working on? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"/></a>&nbsp;</p>
-
-
 <br>
-<br> 
   
 <details>
   <summary>:blue_heart:Tech Stack:blue_heart:</summary>
@@ -43,3 +36,10 @@ I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=f
 
 ![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api?username=sujeong-jang-creator&show_icons=true)
 [![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeong-jang-creator&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sujeong-jang-creator)
+
+<br> 
+
+<p><h3 align='left'>
+If you wonder how I study alone? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"/></a>&nbsp;</p>
+<p><p align='left'>
+If you wonder what kind of project I've been working on? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_Projects.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"/></a>&nbsp;</p>
