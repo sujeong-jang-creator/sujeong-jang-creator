@@ -10,14 +10,17 @@
 
 <br>
 
-<h3 align='center'>:blue_heart: Projects :blue_heart:</p>
+<h3 align='center'>:blue_heart: Projects / Self-study :blue_heart:</p>
+If you wonder how I study alone? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"/></a>&nbsp;</p>
+If you wonder what kind of project I've been working on? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"/></a>&nbsp;</p>
 
 
 <br>
-<br>
+<br> 
+  
 <details>
   <summary>:blue_heart:Tech Stack:blue_heart:</summary>
-  <p><p align='center'>
+   <p><p align='center'>
  I'm learning <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
