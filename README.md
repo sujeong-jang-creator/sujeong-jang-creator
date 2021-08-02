@@ -3,10 +3,11 @@
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>
-<a href="https://blog.naver.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" /></a> &nbsp; 
-<a href="https://open.kakao.com/o/sDrZcl2c" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>  &nbsp; 
-<a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>&nbsp; </a>
-<a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp;</p>
+  
+<a href="https://blog.naver.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a> &nbsp;
+<a href="https://open.kakao.com/o/sDrZcl2c" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white" width = 90px height = 30px/></a>  &nbsp; 
+<a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/>&nbsp; </a>
+<a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a> &nbsp;</p>
 
 <br>
 <br>
@@ -39,7 +40,7 @@ I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=f
 
 <br> 
 
-<p><h3 align='left'>
-If you wonder how I study alone? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"/></a>&nbsp;</p>
+<p><h2 align='left'>
+If you wonder how I study alone? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white" width = 120px/></a>&nbsp;</p>
 <p><p align='left'>
-If you wonder what kind of project I've been working on? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_Projects.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"/></a>&nbsp;</p>
+If you wonder what kind of project I've been working on? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_Projects.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"  width = 120px/></a>&nbsp;</p>
