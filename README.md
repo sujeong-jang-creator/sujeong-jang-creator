@@ -1,5 +1,7 @@
 ![header](./images/newmain.jpg)
-<h2 align='center'> "Seeing much, suffering much, and studying much, are the three pillars of learning" </p>
+<h2 align='center'> "Think with your hands!" </p>
+
+<br>
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>
