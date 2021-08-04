@@ -37,6 +37,8 @@ I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=f
 <br>
 <br>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=sujeong-jang-creator)
+
 ![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api?username=sujeong-jang-creator&show_icons=true)
 [![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeong-jang-creator&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sujeong-jang-creator)
 
@@ -46,3 +48,7 @@ I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=f
 If you wonder how I study alone? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white" width = 120px/></a>&nbsp;</p>
 <p><p align='left'>
 If you wonder what kind of project I've been working on? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_Projects.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"  width = 120px/></a>&nbsp;</p>
+
+<br>
+
+
