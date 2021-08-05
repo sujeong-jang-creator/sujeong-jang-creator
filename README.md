@@ -9,7 +9,8 @@
 <a href="https://blog.naver.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a> &nbsp;
 <a href="https://open.kakao.com/o/sDrZcl2c" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white" width = 90px height = 30px/></a>  &nbsp; 
 <a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/>&nbsp; </a>
-<a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a> &nbsp;</p>
+<a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a> &nbsp;
+<a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Jcry's Dictionary-9999FF?style=flat-square&logo=Vimeo&logoColor=white"  width = 150px height = 30px/></a> &nbsp;</p>
 
 <br>
 <br>
