@@ -45,10 +45,8 @@ I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=f
 
 <br> 
 
-<p><h2 align='left'>
-If you wonder how I study alone? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white" width = 120px/></a>&nbsp;</p>
-<p><p align='left'>
-If you wonder what kind of project I've been working on? >> <a href="https://github.com/sujeong-jang-creator/Jcrystal_Projects.git" target="_blank"><img src="https://img.shields.io/badge/Click! Me!-FF6550?style=flat-square&logo=InstagramCheckmarx&logoColor=white"  width = 120px/></a>&nbsp;</p>
+<p>
+<a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Library-9999FF?style=flat-square&logo=InstagramCheckmarx&logoColor=white" width = 49% height = 180px/>&nbsp;<a href="https://github.com/sujeong-jang-creator/Jcrystal_Projects.git" target="_blank"><img src="https://img.shields.io/badge/Projects-9999FF?style=flat-square&logo=InstagramCheckmarx&logoColor=white"  width = 49% height = 180px/></a>&nbsp;</p>
 
 <br>
 
