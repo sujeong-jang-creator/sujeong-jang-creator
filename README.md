@@ -48,7 +48,7 @@ I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=f
 <br> 
 
 <p>
-<a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Library-9999FF?style=flat-square&logo=InstagramCheckmarx&logoColor=white" width = 49% height = 180px/>&nbsp;<a href="https://www.notion.so/Introduce-e979e620cb144f78be99d043ecc56f39" target="_blank"><img src="https://img.shields.io/badge/자기소개서-9999FF?style=flat-square&logo=InstagramCheckmarx&logoColor=white"  width = 49% height = 180px/></a>&nbsp;</p>
+<a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Library-9999FF?style=flat-square&logo=InstagramCheckmarx&logoColor=white" width = 49% height = 180px/>&nbsp;<a href="https://impartial-asp-7db.notion.site/Introduce-e979e620cb144f78be99d043ecc56f39" target="_blank"><img src="https://img.shields.io/badge/자기소개서-9999FF?style=flat-square&logo=InstagramCheckmarx&logoColor=white"  width = 49% height = 180px/></a>&nbsp;</p>
 
    
 <br>
