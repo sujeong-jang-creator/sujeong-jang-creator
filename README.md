@@ -1,7 +1,6 @@
 ![header](./images/newmain.jpg)
 <h2 align='center'> "Think with your hands!" </p>
    
-   
 <br>
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
