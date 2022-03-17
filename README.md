@@ -32,10 +32,7 @@
  <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a>&nbsp;these days!</p>
 
-
 I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=/AdobeIllustrator&logoColor=white"/></a> and <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=/AdobePhotoshop&logoColor=white"/></a> : I like to use Illustration to create:smile:</p></details>
-
-
 
 <br>
 <br>
