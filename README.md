@@ -23,6 +23,7 @@
  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/BeatifulSoup-59666C?style=flat-square&logo=&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
@@ -43,12 +44,4 @@ I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=f
 [![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeong-jang-creator&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sujeong-jang-creator)
 
 <br> 
-
-
-<p>
-<a href="https://github.com/sujeong-jang-creator/Jcrystal_study.git" target="_blank"><img src="https://img.shields.io/badge/Library-9999FF?style=flat-square&logo=InstagramCheckmarx&logoColor=white" width = 49% height = 180px/>&nbsp;<a href="https://impartial-asp-7db.notion.site/Introduce-e979e620cb144f78be99d043ecc56f39" target="_blank"><img src="https://img.shields.io/badge/자기소개서-9999FF?style=flat-square&logo=InstagramCheckmarx&logoColor=white"  width = 49% height = 180px/></a>&nbsp;</p>
-
-  
-   
-<br>
 
