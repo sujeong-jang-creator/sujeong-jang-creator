@@ -5,12 +5,12 @@
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>
-  
+
+ <a href="https://sujeong-jang-creator.github.io/" target="_blank"><img src="https://img.shields.io/badge/My Info (Gitblog)-FF9E0F?style=flat-square&logo=Apache&logoColor=white" width = 180px height = 30px/></a>
 <a href="https://blog.naver.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a>
 <a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/></a>
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a>
 <a href="https://velog.io/@gomdorij" target="_blank"><img src="https://img.shields.io/badge/Jcry's Dictionary-9999FF?style=flat-square&logo=Vimeo&logoColor=white"  width = 150px height = 30px/></a>
-  <a href="https://sujeong-jang-creator.github.io/" target="_blank"><img src="https://img.shields.io/badge/My Info (Gitblog)-FF9E0F?style=flat-square&logo=Apache&logoColor=white" width = 180px height = 30px/></a>
 
 <br>
 <br>
